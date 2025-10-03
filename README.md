@@ -8,10 +8,13 @@
 
 <h2> 📜Certifications</h2>
 
-  - CompTIA Network + 
+  - CompTIA Network + <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc4OXJyNW5xdzlxcHg3c2ptdWNodGxwaGJubDF3MnNjaXB0NnE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   - CompTIA Security + (in progress)
   - Google Cybersecurity Certificate 
-  - Google Technical Support Fundamentals 
+  - Google Technical Support Fundamentals
+
+
+    
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to install a Ticketing System](https://youtu.be/oyiivb2ygSo)

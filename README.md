@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 
-  - [Installed a Help Desk Ticketing System (osTicket)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installed a Help Desk Ticketing System (osTicket)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab)
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 📜Certifications</h2>

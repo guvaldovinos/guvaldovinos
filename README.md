@@ -14,7 +14,7 @@
   - Google Technical Support Fundamentals 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to install a Ticketing System](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [How to install a Ticketing System](https://youtu.be/oyiivb2ygSo)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 <h2> 🤳 Connect with me:</h2>

@@ -6,7 +6,7 @@ I enjoy troubleshooting hardware and software issues, setting up systems, and le
 
 
   - [Installed a Help Desk Ticketing System (osTicket)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/)
 
 <h2> 📜Certifications</h2>
 

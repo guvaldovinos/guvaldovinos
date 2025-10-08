@@ -7,7 +7,7 @@ I enjoy troubleshooting hardware and software issues, setting up systems, and le
 
   - [Installed a Help Desk Ticketing System (osTicket)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab)
   - [Installed Windows Server & Active Directory Domain Services (AD DS)](https://github.com/guvaldovinos/Active-Directory-Lab)
-  - [Creating User Accounts in Active Directory (ADUC)](https://github.com/guvaldovinos/Active-Directory-Lab)
+  - [Creating User Accounts in Active Directory (ADUC)](https://github.com/guvaldovinos/Creating-User-Accounts-in-Active-Directory-/blob/main/README.md)
   - [Resetting User Passwords in Active Directory (ADUC)](https://github.com/guvaldovinos/Active-Directory-Lab)
 <h2> 📜Certifications</h2>
 

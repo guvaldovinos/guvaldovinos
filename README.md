@@ -8,7 +8,7 @@ I enjoy troubleshooting hardware and software issues, setting up systems, and le
   - [Installed a Help Desk Ticketing System (osTicket)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab)
   - [Installed Windows Server & Active Directory Domain Services (AD DS)](https://github.com/guvaldovinos/Active-Directory-Lab)
   - [Creating User Accounts in Active Directory (ADUC)](https://github.com/guvaldovinos/Creating-User-Accounts-in-Active-Directory-)
-  - [Resetting User Passwords in Active Directory (ADUC)](https://github.com/guvaldovinos/Active-Directory-Lab)
+  - [Resetting User Passwords in Active Directory and Unblocking Accounts (ADUC)](https://github.com/guvaldovinos/Resetting-User-Passwords-in-Active-Directory-Users-and-Computers)
 <h2> 📜Certifications</h2>
 
   - CompTIA Network + <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc4OXJyNW5xdzlxcHg3c2ptdWNodGxwaGJubDF3MnNjaXB0NnE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">

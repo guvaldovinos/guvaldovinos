@@ -1,6 +1,7 @@
 <h1>Hi, I'm Guillermo </h1>
-<p> An aspiring IT Help Desk Intern passionate about solving technical problems and helping users get back to what they do best.  
-I enjoy troubleshooting hardware and software issues, setting up systems, and learning how IT support keeps organizations running smoothly. </p>
+<p> IT Support Technician with hands-on MSP experience in networking, endpoint 
+management, and ticketing, currently working toward a career in purple team cybersecurity.
+CompTIA Network+ & Security+ certified, pursuing an A.S. in Computer Science.</p>
 
 <h2> Cybersecurity Projects</h2>
   - [Home Network Security Assessment (Nmap)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab) 

@@ -3,6 +3,7 @@
 I enjoy troubleshooting hardware and software issues, setting up systems, and learning how IT support keeps organizations running smoothly. </p>
 
 <h2> Cybersecurity Projects</h2>
+  - [Home Network Security Assessment (Nmap)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab) 
 
 <h2>👨‍💻 IT Projects:</h2>
 

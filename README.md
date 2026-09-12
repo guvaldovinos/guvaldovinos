@@ -15,9 +15,9 @@ I enjoy troubleshooting hardware and software issues, setting up systems, and le
 <h2> 📜Certifications</h2>
 
   - CompTIA Network + <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc4OXJyNW5xdzlxcHg3c2ptdWNodGxwaGJubDF3MnNjaXB0NnE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-  - CompTIA Security + (in progress)
+  - CompTIA Security +
+  - CompTIA Network of Experts (NoE)
   - Google Cybersecurity Certificate 
-  - Google Technical Support Fundamentals
 
 
     

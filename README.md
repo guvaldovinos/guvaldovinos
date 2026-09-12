@@ -2,6 +2,8 @@
 <p> An aspiring IT Help Desk Intern passionate about solving technical problems and helping users get back to what they do best.  
 I enjoy troubleshooting hardware and software issues, setting up systems, and learning how IT support keeps organizations running smoothly. </p>
 
+<h2> Cybersecurity Projects</h2>
+
 <h2>👨‍💻 IT Projects:</h2>
 
 

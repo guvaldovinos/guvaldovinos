@@ -4,7 +4,7 @@ management, and ticketing, currently working toward a career in purple team cybe
 CompTIA Network+ & Security+ certified, pursuing an A.S. in Computer Science.</p>
 
 <h2> Cybersecurity Projects</h2>
-  - [Home Network Security Assessment (Nmap)](https://github.com/guvaldovinos/HelpDeskTicketingSystemLab) 
+  - [Home Network Security Assessment (Nmap)](https://github.com/guvaldovinos/Home-Network-Security-Assessment-Nmap-) 
 
 <h2>👨‍💻 IT Projects:</h2>
 

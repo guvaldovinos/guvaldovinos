@@ -19,7 +19,10 @@ CompTIA Network+ & Security+ certified, pursuing an A.S. in Computer Science.</p
   - CompTIA Network + <img align="right" alt="Coding" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc4OXJyNW5xdzlxcHg3c2ptdWNodGxwaGJubDF3MnNjaXB0NnE1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   - CompTIA Security +
   - CompTIA Network of Experts (NoE)
-  - Google Cybersecurity Certificate 
+  - Google Cybersecurity Certificate
+  - TryHackMe SEC 0 Certified
+  - TryHackMe SAL 1 (expected October 31st 2026)
+  - TryHackMe SOC Level 1 (expected October 31st 2026)
 
 
     

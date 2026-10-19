@@ -7,6 +7,7 @@ CompTIA Network+ & Security+ certified, pursuing an A.S. in Computer Science.</p
 
 - [Home Network Security Assessment (Nmap)](https://github.com/guvaldovinos/Home-Network-Security-Assessment-Nmap-)
 - [Linux Log-file Analysis-Automation and Splunk-SIEM Visualization](https://github.com/guvaldovinos/Linux-Log-File-Analysis-Automation-and-SIEM-Visualization.git)
+- Cloud Security Risk Assessment & GRC Simulation (Azure)
 
 
 <h2>👨‍💻 IT Projects:</h2>
